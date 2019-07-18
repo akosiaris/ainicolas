@@ -1,2 +1,2 @@
-# ainicolas
-A software implementing kubernetes network policies using AI
+# AInicolas
+A software implementing kubernetes network policies using AI.
